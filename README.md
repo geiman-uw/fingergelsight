@@ -23,7 +23,7 @@ Words about the thing
 * ?mm transparent acrylic
 * Gray Print-On Silicone Ink
 * Acrylic glue
-* Silicone glue
+<!--* Silicone glue-->
 ###### Other supplies
 * Clear PLA 3D printer filament
 * Petri dishes
