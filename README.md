@@ -5,6 +5,10 @@ Words about the thing
 ## Table of Contents
 
 [Manufacture](#manufacture)
+...[Supplies required](#supplies)
+...[Core procedure](#coreprocedure)
+...[Electronics procedure](#electronicsprocedure)
+...[Assembly and installation](#aandi)
 
 [Usage](#usage)
 
@@ -65,7 +69,7 @@ Notes:
 Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
 [images]
 
-### Assembly and installation
+### Assembly and installation<a name="aandi"/>
 Tap core and shell holes with M2 tap. Attach LEDs to core with transperent double sided tape. Screw core into shell. Attach camera to core with double sided tape, being careful not to force the lens into the hole. Tape wires to shell to provide more stability.
 
 On Kinova hand remove original KG-2 distal phalanxes, being careful not to stretch rubber excessively. Place [finger_name] and screw in shell piece. Continue as if installing original Kinova distal phalanx. Plug both USBs into the wrist controller. The fingers are now ready to use.
