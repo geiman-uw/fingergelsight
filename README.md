@@ -10,7 +10,7 @@ Words about the thing
 
 [Usage](#usage)
 
-[Capabilities and Statistics](#cs)
+<> [Capabilities and Statistics](#cs)
 
 ## Manufacture
 
