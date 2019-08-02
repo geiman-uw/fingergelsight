@@ -10,12 +10,11 @@ Words about the thing
   * [Electronics procedure](#electronicsprocedure)  
   * [Assembly and installation](#aandi)  
 * [Usage](#usage)
-* [Capabilities](#cs)
+* [Capabilities](#capabilities)
 
 ## Manufacture
 
-<a name="supplies"/>
-#### Supplies required
+#### Supplies required  <a name="supplies"/>
 ###### Chemicals
 * Ease Release 200
 * Silicones, Inc. XP-565
@@ -78,4 +77,4 @@ On Kinova hand remove original KG-2 distal phalanxes, being careful not to stret
 
 ## Usage
 
-## Capabilities <a name="cs"/>
+## Capabilities
