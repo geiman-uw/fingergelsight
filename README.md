@@ -4,15 +4,13 @@ Words about the thing
 
 ## Table of Contents
 
-[Manufacture](#manufacture)  
-   [Supplies required](#supplies)  
-   [Core procedure](#coreprocedure)  
-   [Electronics procedure](#electronicsprocedure)  
-   [Assembly and installation](#aandi)  
-
-[Usage](#usage)
-
-<!-- [Capabilities and Statistics](#cs) -->
+* [Manufacture](#manufacture)  
+  * [Supplies required](#supplies)  
+  * [Core procedure](#coreprocedure)  
+  * [Electronics procedure](#electronicsprocedure)  
+  * [Assembly and installation](#aandi)  
+* [Usage](#usage)
+* [Capabilities](#cs)
 
 ## Manufacture
 
@@ -44,7 +42,7 @@ Words about the thing
 
 A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces on campus which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
 
-<a name="coreprocedure"/>
+<a name="coreprocedure"/>  
 ### Core procedure
 #### 1. Silicone lab
 * __Cast transparent gel silicone__: Spray petri dish with Ease Release 200. Mix 15g XP-565, then pour into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
@@ -67,12 +65,12 @@ Notes:
 * Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
 * PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately ?% bigger than actual size in order to account for this.
 
-<a name="electronicsprocedure"/>
+<a name="electronicsprocedure"/>  
 ### Electronics procedure
 Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
 [images]
 
-<a name="aandi"/>
+<a name="aandi"/>  
 ### Assembly and installation
 Tap core and shell holes with M2 tap. Attach LEDs to core with transperent double sided tape. Screw core into shell. Attach camera to core with double sided tape, being careful not to force the lens into the hole. Tape wires to shell to provide more stability.
 
@@ -80,4 +78,4 @@ On Kinova hand remove original KG-2 distal phalanxes, being careful not to stret
 
 ## Usage
 
-<!-- ## Capabilities and Statistics <a name="cs"/> -->
+## Capabilities <a name="cs"/>
