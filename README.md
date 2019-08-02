@@ -14,7 +14,7 @@ Words about the thing
 
 ## Manufacture
 
-#### Supplies required  <a name="supplies"/>
+#### Supplies required<a name="supplies"/>
 ###### Chemicals
 * Ease Release 200
 * Silicones, Inc. XP-565
@@ -41,8 +41,7 @@ Words about the thing
 
 A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces on campus which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
 
-<a name="coreprocedure"/>  
-### Core procedure
+### Core procedure<a name="coreprocedure"/>  
 #### 1. Silicone lab
 * __Cast transparent gel silicone__: Spray petri dish with Ease Release 200. Mix 15g XP-565, then pour into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
 * __Add yellow layer__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
@@ -64,13 +63,11 @@ Notes:
 * Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
 * PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately ?% bigger than actual size in order to account for this.
 
-<a name="electronicsprocedure"/>  
-### Electronics procedure
+### Electronics procedure<a name="electronicsprocedure"/>
 Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
 [images]
 
-<a name="aandi"/>  
-### Assembly and installation
+### Assembly and installation<a name="aandi"/>
 Tap core and shell holes with M2 tap. Attach LEDs to core with transperent double sided tape. Screw core into shell. Attach camera to core with double sided tape, being careful not to force the lens into the hole. Tape wires to shell to provide more stability.
 
 On Kinova hand remove original KG-2 distal phalanxes, being careful not to stretch rubber excessively. Place [finger_name] and screw in shell piece. Continue as if installing original Kinova distal phalanx. Plug both USBs into the wrist controller. The fingers are now ready to use.
