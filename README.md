@@ -5,10 +5,10 @@ Words about the thing
 ## Table of Contents
 
 [Manufacture](#manufacture)
-...[Supplies required](#supplies)
-...[Core procedure](#coreprocedure)
-...[Electronics procedure](#electronicsprocedure)
-...[Assembly and installation](#aandi)
+   [Supplies required](#supplies)
+   [Core procedure](#coreprocedure)
+   [Electronics procedure](#electronicsprocedure)
+   [Assembly and installation](#aandi)
 
 [Usage](#usage)
 
@@ -16,7 +16,7 @@ Words about the thing
 
 ## Manufacture
 
-#### Supplies required
+#### Supplies required<a name="supplies"/>
 ###### Chemicals
 * Ease Release 200
 * Silicones, Inc. XP-565
@@ -43,7 +43,7 @@ Words about the thing
 
 A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces on campus which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
 
-### Core procedure
+### Core procedure<a name="coreprocedure"/>
 #### 1. Silicone lab
 * __Cast transparent gel silicone__: Spray petri dish with Ease Release 200. Mix 15g XP-565, then pour into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
 * __Add yellow layer__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
@@ -65,7 +65,7 @@ Notes:
 * Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
 * PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately ?% bigger than actual size in order to account for this.
 
-### Electronics procedure
+### Electronics procedure<a name="electronicsprocedure"/>
 Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
 [images]
 
