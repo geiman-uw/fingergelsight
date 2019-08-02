@@ -44,7 +44,7 @@ A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"),
 ### Core procedure
 #### 1. Silicone lab
 * __Cast transparent gel silicone__: Spray petri dish with Ease Release 200. Mix 15g XP-565, then pour into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
-* __Add yellow layer while XP-565__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
+* __Add yellow layer__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
 
 #### 2. Makerspace
 * **Print parts**: Print [core_filename], [corepiece_filename], [shell_filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
