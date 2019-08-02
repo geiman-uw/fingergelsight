@@ -1,4 +1,4 @@
-# Finger GelSight
+# [finger_name]
 
 Words about the thing
 
@@ -46,7 +46,7 @@ A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"),
 * __Add yellow layer while XP-565__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
 
 #### 2. Makerspace
-* **Print cores**: Print [filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
+* **Print parts**: Print [core_filename], [corepiece_filename], [shell_filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
 * **Laser cut acrylic**: Laser cut [filename] with vector set to `8s 100p 100f`.
 * **Laser cut and engrave gel**: Remove transparent/yellow silicone from petri dish and place yellow-side up in laser cutter. Laser cut [filename] with raster set to `11s 4p 50f` and vector set to `5s 75p 50f`.
 
@@ -59,13 +59,17 @@ A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"),
 
 Notes:
 * You may find it most efficient to make 4-8 cores at a time with this procedure.
-* Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion viscous materials, such as silicone base, and pipets to portion less viscous materials, such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
-* PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately ?% bigger than actual size in order to account for this phenomenon.
+* Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
+* PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately ?% bigger than actual size in order to account for this.
 
 ### Electronics procedure
+Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
+[images]
 
+## Assembly and installation
+Tap core and shell holes with M2 tap. Attach LEDs to core with transperent double sided tape. Screw core into shell. Attach camera to core with double sided tape, being careful not to force the lens into the hole. Tape wires to shell to provide more stability.
 
-## Installation
+On Kinova hand remove original KG-2 distal phalanxes, being careful not to stretch rubber excessively. Place [finger_name] and screw in shell piece. Continue as if installing original Kinova distal phalanx. Plug both USBs into the wrist controller. The fingers are now ready to use.
 
 ## Usage
 
