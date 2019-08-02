@@ -47,7 +47,7 @@ A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"),
 * __Add yellow layer__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
 
 #### 2. Makerspace
-* **Print parts**: Print [core_filename], [corepiece_filename], [shell_filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
+* **Print parts**: Print [core_filename] and [corepiece_filename] in opaque PLA. Print [shell_filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
 * **Laser cut acrylic**: Laser cut [filename] with vector set to `8s 100p 100f`.
 * **Laser cut and engrave gel**: Remove transparent/yellow silicone from petri dish and place yellow-side up in laser cutter. Laser cut [filename] with raster set to `11s 4p 50f` and vector set to `5s 75p 50f`.
 
