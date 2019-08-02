@@ -29,6 +29,7 @@ Words about the thing
 * Petri dishes
 * Pour boats
 * Popsicle mixing sticks
+* Pipets
 * Needle-tip bottle
 
 #### Equipment required
