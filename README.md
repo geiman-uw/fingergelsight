@@ -48,7 +48,7 @@ Notes:
 * PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately 5% bigger than the intended final size in order to account for this.
 #### 1. Silicone lab
 * __Cast transparent gel silicone__: After ensuring petri dish is free of dust, spray petri dish with Ease Release 200. Mix 17-18g XP-565, then pour 15g into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
-* __Add yellow layer__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
+* __Add yellow layer__: Starting with a 1g of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
 
 #### 2. Makerspace
 * **Print parts**: Print [core_filename] and [corepiece_filename] in opaque PLA. Print [shell_filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
@@ -59,7 +59,7 @@ Notes:
 * __Cast transparent core silicone__: Mix enough XP-565 to fill the prepared cores, and vacuum in pour boat until most bubbles are gone. 
 * __Glue acrylic into core__: Using a needle-tip bottle, apply acrylic glue to the inside of the cores and place acrylic. Make sure the glue gets all the way around the edges, otherwise the silicone will seep past the acrylic and obstruct the camera lens later.
 * __Fill core with silicone__: Carefully fill each core with silicone (at or below edge; do not overflow) and vacuum until no bubbles remain, then heat on warm for 5 min. 
-* __Add protection layer__: Starting with a half-pinkie-tip quantity *(<1g)* of gray Silicone Ink, mix in a 1:10:40 activator:ink:diluent ratio. The resulting mixture should be somewhat thicker than chocolate milk. Cover the bottom of each cut-out gel with electrical tape and place dot-side up in a petri dish. Using a pipet, cover each gel in gray silicone mix, making sure all untaped sides are covered. 
+* __Add protection layer__: Starting with 0.5g of gray Silicone Ink, mix in a 1:10:40 activator:ink:diluent ratio. The resulting mixture should be somewhat thicker than chocolate milk. Cover the bottom of each cut-out gel with electrical tape and place dot-side up in a petri dish. Using a pipet, cover each gel in gray silicone mix, making sure all untaped sides are covered. 
 * __Attach gel to core__: Once cores have cooled, spread a thin layer of mixed XP-565 on each core. Gently place gel on XP-565 layer, being careful to avoid introducing bubbles. Heat on warm for 5 min.
 
 ### Electronics procedure<a name="electronicsprocedure"/>
