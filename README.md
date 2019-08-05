@@ -61,7 +61,7 @@ A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"),
 Notes:
 * You may find it most efficient to make 4-8 cores at a time with this procedure.
 * Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
-* PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately ?% bigger than actual size in order to account for this.
+* PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately 5% bigger than the intended final size in order to account for this.
 
 ### Electronics procedure<a name="electronicsprocedure"/>
 Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
