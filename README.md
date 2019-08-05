@@ -39,9 +39,9 @@ Words about the thing
 * 3D printer
 * Laser cutter
 
+A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces at UW which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
+
 ### Core procedure<a name="coreprocedure"/>  
-Notes:
-* A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces at UW which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
 Notes:
 * You may find it most efficient to make 4-8 cores at a time with this procedure.
 * Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
