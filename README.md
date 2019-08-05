@@ -39,11 +39,16 @@ Words about the thing
 * 3D printer
 * Laser cutter
 
-A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces on campus which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
+Notes:
+* A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"), but check with the current project owner for the current location. There are multiple makerspaces at UW which have 3D printers and laser cutters; the two most accessible are the MILL in McCarty Hall and CoMotion Makerspace in Fluke Hall.
+Notes:
+* You may find it most efficient to make 4-8 cores at a time with this procedure.
+* Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
+* PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately 5% bigger than the intended final size in order to account for this.
 
 ### Core procedure<a name="coreprocedure"/>  
 #### 1. Silicone lab
-* __Cast transparent gel silicone__: Spray petri dish with Ease Release 200. Mix 15g XP-565, then pour into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
+* __Cast transparent gel silicone__: After ensuring petri dish is free of dust, spray petri dish with Ease Release 200. Mix 17-18g XP-565, then pour 15g into dish. Vacuum until no bubbles remain, then heat on warm for 10 min.
 * __Add yellow layer__: Starting with a pinkie-tip quantity of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
 
 #### 2. Makerspace
@@ -57,11 +62,6 @@ A vacuum chamber and toaster oven have been stored in ECE B031 ("silicone lab"),
 * __Fill core with silicone__: Carefully fill each core with silicone (at or below edge; do not overflow) and vacuum until no bubbles remain, then heat on warm for 5 min. 
 * __Add protection layer__: Starting with a half-pinkie-tip quantity *(<1g)* of gray Silicone Ink, mix in a 1:10:40 activator:ink:diluent ratio. The resulting mixture should be somewhat thicker than chocolate milk. Cover the bottom of each cut-out gel with electrical tape and place dot-side up in a petri dish. Using a pipet, cover each gel in gray silicone mix, making sure all untaped sides are covered. 
 * __Attach gel to core__: Once cores have cooled, spread a thin layer of mixed XP-565 on each core. Gently place gel on XP-565 layer, being careful to avoid introducing bubbles. Heat on warm for 5 min.
-
-Notes:
-* You may find it most efficient to make 4-8 cores at a time with this procedure.
-* Mix silicones in a pour boat using a popsicle stick. Use popsicle sticks to portion more viscous materials such as silicone base, and pipets to portion less viscous materials such as activator and diluent. Never use the same pipet or popsicle stick for different materials. 
-* PLA parts shrink when exposed to heat. If you plan to modify the core, make your part approximately 5% bigger than the intended final size in order to account for this.
 
 ### Electronics procedure<a name="electronicsprocedure"/>
 Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder each LED lead to the appropriate USB cable wire.
