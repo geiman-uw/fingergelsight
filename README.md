@@ -59,7 +59,7 @@ Notes:
 * __Cast transparent core silicone__: Mix enough XP-565 to fill the prepared cores, and vacuum in pour boat until most bubbles are gone. 
 * __Glue acrylic into core__: Using a needle-tip bottle, apply acrylic glue to the inside of the cores and place acrylic. Make sure the glue gets all the way around the edges, otherwise the silicone will seep past the acrylic and obstruct the camera lens later.
 * __Fill core with silicone__: Carefully fill each core with silicone (at or below edge; do not overflow) and vacuum until no bubbles remain, then heat on warm for 5 min. 
-* __Add protection layer__: Starting with 0.5g of gray Silicone Ink, mix in a 1:10:40 activator:ink:diluent ratio. The resulting mixture should be somewhat thicker than chocolate milk. Cover the bottom of each cut-out gel with electrical tape and place dot-side up in a petri dish. Using a pipet, cover each gel in gray silicone mix, making sure all untaped sides are covered. 
+* __Add protection layer__: Starting with 0.5g of gray Silicone Ink, mix in a 1:10:40 activator:ink:diluent ratio. The resulting mixture should be somewhat thicker than chocolate milk. Cover the bottom of each cut-out gel with electrical tape, making sure there are no bubbles where gray silicone could seep under the gel. Place dot-side up in a petri dish. Using a pipet, cover each gel in gray silicone mix, making sure all untaped sides are covered. 
 * __Attach gel to core__: Once cores have cooled, spread a thin layer of mixed XP-565 on each core. Gently place gel on XP-565 layer, being careful to avoid introducing bubbles. Heat on warm for 5 min.
 
 ### Electronics procedure<a name="electronicsprocedure"/>
