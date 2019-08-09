@@ -1,4 +1,4 @@
-# [finger_name]
+# Assistive Finger GelSight
 
 Words about the thing
 
@@ -51,9 +51,9 @@ Notes:
 * __Add yellow layer__: Starting with a 1g of yellow Silicone Ink, mix in a 1:10:60 activator:ink:diluent ratio. The resulting mixture should be approximately the consistency of chocolate milk. Pour in a thin even layer over the XP-565 petri dish. The layer should be as thin as possible, so you will not use all of the yellow silicone. Heat the dish on warm for 15 min.
 
 #### 2. Makerspace
-* **Print parts**: Print gelsight_shell.stl and gelsight_piece.stl in opaque PLA. Print gelsight_corefilled_103.stl open side up in clear PLA with 0.2mm layer height, raft, and no support.
-* **Laser cut acrylic**: Laser cut gelsight_corefilled_acrylic.stl with vector set to `8s 100p 100f`.
-* **Laser cut and engrave gel**: Remove transparent/yellow silicone from petri dish and place yellow-side up in laser cutter. Laser cut gelsight_gelpattern_5x14.ai with raster set to `11s 4p 50f` and vector set to `5s 75p 50f`.
+* **Print parts**: Print `gelsight_shell.stl` and `gelsight_piece.stl` in opaque PLA. Print `gelsight_corefilled_103.stl` open side up in clear PLA with 0.2mm layer height, raft, and no support.
+* **Laser cut acrylic**: Laser cut `gelsight_corefilled_acrylic.stl` with vector set to `8s 100p 100f`.
+* **Laser cut and engrave gel**: Remove transparent/yellow silicone from petri dish and place yellow-side up in laser cutter. Laser cut `gelsight_gelpattern_5x14.ai` with raster set to `11s 4p 50f` and vector set to `5s 75p 50f`.
 
 #### 3. Silicone lab
 * __Cast transparent core silicone__: Mix enough XP-565 to fill the prepared cores, and vacuum in pour boat until most bubbles are gone. 
@@ -69,7 +69,7 @@ Wire two Adafruit LED sequins in parallel. Cut and strip a USB cable and solder 
 ### Assembly and installation<a name="aandi"/>
 Tap core and shell holes with M2 tap. Attach LEDs to core with transperent double sided tape. Screw core into shell. Attach camera to core with double sided tape, being careful not to force the lens into the hole. Tape wires to shell to provide more stability.
 
-On Kinova hand remove original KG-2 distal phalanxes, being careful not to stretch rubber excessively. Place [finger_name] and screw in shell piece. Continue as if installing original Kinova distal phalanx. Plug both USBs into the wrist controller. The fingers are now ready to use.
+On Kinova hand remove original KG-2 distal phalanxes, being careful not to stretch rubber excessively. Place Finger GelSight and screw in shell piece. Continue as if installing original Kinova distal phalanx. Plug both USBs into the wrist controller. The fingers are now ready to use.
 
 ## Usage
 
