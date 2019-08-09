@@ -53,7 +53,7 @@ Notes:
 #### 2. Makerspace
 * **Print parts**: Print [core_filename] and [corepiece_filename] in opaque PLA. Print [shell_filename] open side up in clear PLA with 0.2mm layer height, raft, and no support.
 * **Laser cut acrylic**: Laser cut [filename] with vector set to `8s 100p 100f`.
-* **Laser cut and engrave gel**: Remove transparent/yellow silicone from petri dish and place yellow-side up in laser cutter. Laser cut [gel](../finger_gelsight_production/gelsight_gelpattern_5x14.ai) with raster set to `11s 4p 50f` and vector set to `5s 75p 50f`.
+* **Laser cut and engrave gel**: Remove transparent/yellow silicone from petri dish and place yellow-side up in laser cutter. Laser cut [gel](fingergelsight/finger_gelsight_production/gelsight_gelpattern_5x14.ai) with raster set to `11s 4p 50f` and vector set to `5s 75p 50f`.
 
 #### 3. Silicone lab
 * __Cast transparent core silicone__: Mix enough XP-565 to fill the prepared cores, and vacuum in pour boat until most bubbles are gone. 
